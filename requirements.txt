@@ -1,0 +1,10 @@
+ray[serve]
+fastapi
+uvicorn
+httpx
+Pillow
+PyMuPDF
+pyyaml
+openai
+python-dotenv
+numpy
