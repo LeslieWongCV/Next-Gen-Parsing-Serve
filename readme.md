@@ -4,7 +4,7 @@
 pip install --no-cache-dir -r requirements.txt
 
 
-# 启动 Ray Head（如果还没启动）
+# 启动 Ray Head
 ray start --head --port=6379
 
 # 运行服务
