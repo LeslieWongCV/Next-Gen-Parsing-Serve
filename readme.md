@@ -5,7 +5,7 @@ pip install --no-cache-dir -r requirements.txt
 
 
 # 调用示例
-curl -X POST http://localhost:8000/v1/run \
+curl -X POST  \
   -H "Content-Type: application/json" \
   -d '{
     "usecase": "document_qa",
